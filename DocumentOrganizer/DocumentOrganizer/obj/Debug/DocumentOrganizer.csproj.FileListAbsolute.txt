@@ -1,0 +1,13 @@
+C:\Users\Richard Allegretti\source\repos\DocumentOrganizer\DocumentOrganizer\bin\Debug\DocumentOrganizer.exe.config
+C:\Users\Richard Allegretti\source\repos\DocumentOrganizer\DocumentOrganizer\bin\Debug\DocumentOrganizer.exe
+C:\Users\Richard Allegretti\source\repos\DocumentOrganizer\DocumentOrganizer\bin\Debug\DocumentOrganizer.pdb
+C:\Users\Richard Allegretti\source\repos\DocumentOrganizer\DocumentOrganizer\obj\Debug\DocumentOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\Richard Allegretti\source\repos\DocumentOrganizer\DocumentOrganizer\obj\Debug\DocumentOrganizer.exe
+C:\Users\Richard Allegretti\source\repos\DocumentOrganizer\DocumentOrganizer\obj\Debug\DocumentOrganizer.pdb
+C:\Users\richard.allegretti\Desktop\DocumentOrganizer\DocumentOrganizer\bin\Debug\DocumentOrganizer.exe.config
+C:\Users\richard.allegretti\Desktop\DocumentOrganizer\DocumentOrganizer\bin\Debug\DocumentOrganizer.exe
+C:\Users\richard.allegretti\Desktop\DocumentOrganizer\DocumentOrganizer\bin\Debug\DocumentOrganizer.pdb
+C:\Users\richard.allegretti\Desktop\DocumentOrganizer\DocumentOrganizer\obj\Debug\DocumentOrganizer.csprojAssemblyReference.cache
+C:\Users\richard.allegretti\Desktop\DocumentOrganizer\DocumentOrganizer\obj\Debug\DocumentOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\richard.allegretti\Desktop\DocumentOrganizer\DocumentOrganizer\obj\Debug\DocumentOrganizer.exe
+C:\Users\richard.allegretti\Desktop\DocumentOrganizer\DocumentOrganizer\obj\Debug\DocumentOrganizer.pdb
