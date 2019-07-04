@@ -9,6 +9,7 @@ namespace DocumentOrganizer.Helper
 {
     public class FileHelper
     {
+		//Vininius
         public static List<FileInfo> LoadDocuments(string sourcePath)
         {
             DirectoryInfo directory = new DirectoryInfo(sourcePath);
