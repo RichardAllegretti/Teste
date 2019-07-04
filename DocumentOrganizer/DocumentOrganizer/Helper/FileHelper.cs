@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace DocumentOrganizer.Helper
 {
@@ -23,8 +21,9 @@ namespace DocumentOrganizer.Helper
 
         public static void CreateDirectory(string path)
         {
-            if (!Directory.Exists(path))
-                Directory.CreateDirectory(path);
+			string caminho = path;
+            if (!Directory.Exists(caminho))
+                Directory.CreateDirectory(caminho);
         }
 		//ABCBolinhas
     }
