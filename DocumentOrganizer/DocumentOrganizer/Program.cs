@@ -39,7 +39,7 @@ namespace DocumentOrganizer
 
                 ReportGenerator(destinationPath, destinationReport);
 
-                Console.WriteLine("Arquivos ordenados e relatório gerado. Flw Vlw :D");
+                Console.WriteLine("Arquivos ordenados e relatório gerado. Flw Vlw xDDDD");
 				Console.ReadLine();
             }
             catch (Exception)
