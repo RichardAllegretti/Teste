@@ -20,9 +20,9 @@ namespace DocumentOrganizer.Helper
 
         public static void CreateDirectory(string path)
         {
-			string caminho2 = path;
-            if (!Directory.Exists(caminho2))
-                Directory.CreateDirectory(caminho2);
+			string caminho = path;
+            if (!Directory.Exists(caminho))
+                Directory.CreateDirectory(caminho);
         }
 		//ABCBolinhas
     }
